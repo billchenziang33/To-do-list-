@@ -1,0 +1,44 @@
+[
+  {
+    "id": "GENERAL",
+    "date": "—",
+    "time": "—",
+    "location": "学习之外 / 日常"
+  },
+  {
+    "id": "MAT235Y1",
+    "date": "April 9",
+    "time": "9:00AM - 12:00PM",
+    "location": "BN 210N (Clara Benson Building)"
+  },
+  {
+    "id": "PHL245H1",
+    "date": "April 13",
+    "time": "7:00PM - 10:00PM",
+    "location": "EX 100 (EXAM CENTRE)"
+  },
+  {
+    "id": "CSC258H1",
+    "date": "April 20",
+    "time": "2:00PM - 5:00PM",
+    "location": "MS 2158 (Medical Sciences Building)"
+  },
+  {
+    "id": "STA238H1",
+    "date": "April 23",
+    "time": "7:00PM - 10:00PM",
+    "location": "BN 210N (Clara Benson Building)"
+  },
+  {
+    "id": "PHY132H1",
+    "date": "April 24",
+    "time": "7:00PM - 10:00PM",
+    "location": "BN 210N (Clara Benson Building)"
+  },
+  {
+    "id": "CSC263H1",
+    "date": "April 29",
+    "time": "9:00AM - 12:00PM",
+    "location": "BN 210N (Clara Benson Building)"
+  }
+]

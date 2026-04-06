@@ -1,0 +1,60 @@
+id,examId,examDate,examTime,examLocation,text,completed
+ae737d6e-1d74-48f5-96f2-005514fe7fd3,GENERAL,—,—,学习之外 / 日常,PHL245 A10,true
+c6945863-754b-4b6f-b2ae-603013f10d45,GENERAL,—,—,学习之外 / 日常,CSC263 quiz3 review,true
+2608153e-c63d-428f-a591-87b8ff73e209,GENERAL,—,—,学习之外 / 日常,4月份报税,true
+b82e1010-ec32-4059-9782-e9e63c075e48,GENERAL,—,—,学习之外 / 日常,加拿大报税细节,false
+945aff8b-5e05-448b-a12c-e042bd3ddd48,GENERAL,—,—,学习之外 / 日常,华为4月29号笔试,false
+9d4d64ec-9448-4b8b-8e59-b63c49aaeda5,GENERAL,—,—,学习之外 / 日常,5月5号香港酒店预定,false
+64c8a859-ce7d-4e51-bd3e-241de0feaad2,MAT235Y1,April 9,9:00AM - 12:00PM,BN 210N (Clara Benson Building),practice test 1,false
+7fe1366d-b814-427a-983a-8010bb2357fc,MAT235Y1,April 9,9:00AM - 12:00PM,BN 210N (Clara Benson Building),review note （fall 50%）,true
+ff403232-fd8a-47a0-8b72-1b262455d688,MAT235Y1,April 9,9:00AM - 12:00PM,BN 210N (Clara Benson Building),review note （fall 100%）,true
+ba17e719-c411-4dc9-9544-3b62e10a6641,MAT235Y1,April 9,9:00AM - 12:00PM,BN 210N (Clara Benson Building),review note (winter 50%),true
+aee302d3-2c46-4b0a-9ee3-f171d67d6dc4,MAT235Y1,April 9,9:00AM - 12:00PM,BN 210N (Clara Benson Building),review note (winter 100%),true
+a3a678b8-3939-48ba-8dce-5b7e4d4a2ed0,PHL245H1,April 13,7:00PM - 10:00PM,EX 100 (EXAM CENTRE),google doc review,false
+ac5ee6f7-f7bd-4fda-ade6-0c48b1f948e5,PHL245H1,April 13,7:00PM - 10:00PM,EX 100 (EXAM CENTRE),logic 2010 review 1,false
+c945b65b-0012-4447-a532-3ac41b6cd8b6,PHL245H1,April 13,7:00PM - 10:00PM,EX 100 (EXAM CENTRE),logic 2010 review 2,false
+ccfc7d68-c166-456c-800a-00f2922b03e2,PHL245H1,April 13,7:00PM - 10:00PM,EX 100 (EXAM CENTRE),logic 2010 review 2,false
+5a0ea9cf-59e7-4d02-a568-25ad06c50c32,PHL245H1,April 13,7:00PM - 10:00PM,EX 100 (EXAM CENTRE),"midterm review 1, 2, 3",false
+2b5b24b5-a853-4133-80c5-fde126d8b5a6,PHL245H1,April 13,7:00PM - 10:00PM,EX 100 (EXAM CENTRE),google drive vedio review,false
+c072c18f-8c98-4012-96f9-f7ed46c4e1f4,PHL245H1,April 13,7:00PM - 10:00PM,EX 100 (EXAM CENTRE),review note,false
+9949f4fb-3f69-4c76-b8c3-97e58e8a7be1,CSC258H1,April 20,2:00PM - 5:00PM,MS 2158 (Medical Sciences Building),review lecture slides 1-3,false
+83e80b79-204e-4ee5-8829-284aef3a743b,CSC258H1,April 20,2:00PM - 5:00PM,MS 2158 (Medical Sciences Building),review lecture slides 4-6,false
+2b78e68c-851a-4fd0-b7c2-7c5422f2d647,CSC258H1,April 20,2:00PM - 5:00PM,MS 2158 (Medical Sciences Building),"review lecture slide 7.processors, 8. assembly language",false
+e613abc4-0615-403e-b9dd-c802aaa40f75,CSC258H1,April 20,2:00PM - 5:00PM,MS 2158 (Medical Sciences Building),lab 1-4 review,false
+3a2597cd-75a0-442d-bfdd-1ead1b5ede34,CSC258H1,April 20,2:00PM - 5:00PM,MS 2158 (Medical Sciences Building),lab 5-7 review,false
+a8d7038d-638f-4968-8638-c02dae7f41b2,CSC258H1,April 20,2:00PM - 5:00PM,MS 2158 (Medical Sciences Building),project review,false
+021f2d64-c874-473f-911a-c468e7fdd072,CSC258H1,April 20,2:00PM - 5:00PM,MS 2158 (Medical Sciences Building),midterm review,false
+3934eb3f-d7ea-4b5a-acf2-af8dce1ae5cd,CSC258H1,April 20,2:00PM - 5:00PM,MS 2158 (Medical Sciences Building),practice test 2022-12,false
+14b4ea66-0269-4ed0-8e2e-ec37bba6c01a,CSC258H1,April 20,2:00PM - 5:00PM,MS 2158 (Medical Sciences Building),practice test 2023-12,false
+1283365a-2dad-4ba6-9b97-e78838913d1f,CSC258H1,April 20,2:00PM - 5:00PM,MS 2158 (Medical Sciences Building),practice test 2015 winter,false
+dd5f3322-483f-4b07-b224-c3144383d7e3,STA238H1,April 23,7:00PM - 10:00PM,BN 210N (Clara Benson Building),review lecture note 1-4  & R module 1-3,false
+ae60ae01-34bb-4131-8d41-2f83b8192ae4,STA238H1,April 23,7:00PM - 10:00PM,BN 210N (Clara Benson Building),review lecture note 5-8  & R module 4-6,false
+52000116-4254-42de-80b7-a8057db64ef7,STA238H1,April 23,7:00PM - 10:00PM,BN 210N (Clara Benson Building),review lecture note 9-13 & R module 7-8,false
+15213754-8dd8-4645-b261-24a3a3cef48d,STA238H1,April 23,7:00PM - 10:00PM,BN 210N (Clara Benson Building),review midterm,false
+5388a5c7-9a73-48a8-8874-d651bfa5883e,STA238H1,April 23,7:00PM - 10:00PM,BN 210N (Clara Benson Building),"review quiz 1,2,3,4",false
+a222bf28-6c2d-47a8-a9ff-43a6e4708b44,STA238H1,April 23,7:00PM - 10:00PM,BN 210N (Clara Benson Building),practice final,false
+112cb82f-dd3a-4660-8596-d0d9733e5859,PHY132H1,April 24,7:00PM - 10:00PM,BN 210N (Clara Benson Building),review lectuer 1-9,false
+b60bc048-9c03-4009-9a25-afb976a3b5b5,PHY132H1,April 24,7:00PM - 10:00PM,BN 210N (Clara Benson Building),review lecture 10 - 18,false
+854d01a1-4ce3-4a41-b5c7-e0c2e82e3cfc,PHY132H1,April 24,7:00PM - 10:00PM,BN 210N (Clara Benson Building),review lectuer 19- 27,false
+78e778b2-69f8-44a2-b312-daa201f17efa,PHY132H1,April 24,7:00PM - 10:00PM,BN 210N (Clara Benson Building),review lecture 28- 33,false
+20e2c278-2408-4815-a540-1abc0a196e8f,PHY132H1,April 24,7:00PM - 10:00PM,BN 210N (Clara Benson Building),"review midterm 1, 2",false
+b43b298e-3d41-4020-9d1a-7d9e5848194a,PHY132H1,April 24,7:00PM - 10:00PM,BN 210N (Clara Benson Building),"review lab 1,2,3,4,5",false
+7157af4f-000e-4dd8-a208-7b2ac18b97ea,PHY132H1,April 24,7:00PM - 10:00PM,BN 210N (Clara Benson Building),"review home quiz 1,2,3,4",false
+720cd4d7-a1e3-436f-a212-8dbf7d42bda2,PHY132H1,April 24,7:00PM - 10:00PM,BN 210N (Clara Benson Building),review problem set 1 - 5,false
+966ad125-ac45-4e8a-8691-d709ef4a91f0,PHY132H1,April 24,7:00PM - 10:00PM,BN 210N (Clara Benson Building),review problem set 6-10,false
+18e0ccdf-b445-462c-a996-ea053b1b3177,PHY132H1,April 24,7:00PM - 10:00PM,BN 210N (Clara Benson Building),past test 2024-04,false
+ac8fed0d-8eeb-4a81-86b3-55c35159ef87,CSC263H1,April 29,9:00AM - 12:00PM,BN 210N (Clara Benson Building),review lectuere 1-4,false
+3b5a45cc-5afe-4fc5-8f28-fa0189e66f20,CSC263H1,April 29,9:00AM - 12:00PM,BN 210N (Clara Benson Building),review lectuer 5-7,false
+d398243e-6687-4b2b-a005-5eaa63ea9752,CSC263H1,April 29,9:00AM - 12:00PM,BN 210N (Clara Benson Building),review lectuer 8-12,false
+0a9adace-d9c1-4f9d-9e4f-fdef770864ff,CSC263H1,April 29,9:00AM - 12:00PM,BN 210N (Clara Benson Building),"review midterm 1, 2",false
+2e391dc5-1788-4925-8be8-6020b6855091,CSC263H1,April 29,9:00AM - 12:00PM,BN 210N (Clara Benson Building),"review tut problem 1,2,3",false
+e732b840-d20a-4742-8660-8b757f097b41,CSC263H1,April 29,9:00AM - 12:00PM,BN 210N (Clara Benson Building),"review tut problme 4,5,6,7",false
+6ce871e9-fe4c-48c8-9afb-050de0a225b8,CSC263H1,April 29,9:00AM - 12:00PM,BN 210N (Clara Benson Building),"review quiz 1,2,3",false
+be60637f-ed1c-427a-8593-ddbee097eca2,CSC263H1,April 29,9:00AM - 12:00PM,BN 210N (Clara Benson Building),past final 2024-4,false
+073407e7-6030-41e2-add7-23316a5cd43a,CSC263H1,April 29,9:00AM - 12:00PM,BN 210N (Clara Benson Building),review weekly module 1-5,false
+67ce6894-99f4-45ad-a430-1c4b6688133c,CSC263H1,April 29,9:00AM - 12:00PM,BN 210N (Clara Benson Building),review weekly module 6-10,false
+c374475a-00ad-453a-8cf1-e315862c48af,PHL245H1,April 13,7:00PM - 10:00PM,EX 100 (EXAM CENTRE),practice final,false
+d719a347-82c4-42ac-a171-cf10075a4c14,GENERAL,—,—,学习之外 / 日常,浓浓羽绒服,false
+1e3a4dcb-c92f-444f-9c57-110b4a11c411,GENERAL,—,—,学习之外 / 日常,伴手礼购买,false
+65aa3a20-4610-488b-8dde-02329ef11b05,MAT235Y1,April 9,9:00AM - 12:00PM,BN 210N (Clara Benson Building),"midterm review 1,2",true
+c2c482d5-a803-4bc6-ae5a-692ea075cbb9,MAT235Y1,April 9,9:00AM - 12:00PM,BN 210N (Clara Benson Building),"midterm review 3,4",false
